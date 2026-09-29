@@ -1,6 +1,6 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        String tekijä = "Tatu";
+        String nimi = "Tatu";
         double luku1 = 7;
         double luku2 = 7;
         double tulo;
@@ -15,7 +15,7 @@ public class App {
 
 
         System.out.println("Hei olen Tulostin-ohjelma");
-        System.out.println("Ohjelman tekijä: " + tekijä);
+        System.out.println("Ohjelman tekijä: " + nimi);
         System.out.println("Luku1-muuttujan arvo on " + luku1);
         System.out.println("Luku2 muuttujan arvo on " + luku2);
         System.out.println(luku1 + " * " + luku2 + " = " + tulo);
