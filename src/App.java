@@ -2,7 +2,7 @@ public class App {
     public static void main(String[] args) throws Exception {
         String nimi = "Tatu";
         double luku1 = 7;
-        double luku2 = 7;
+        double luku2 = 18;
         double tulo;
         double erotus;
         double summa;
