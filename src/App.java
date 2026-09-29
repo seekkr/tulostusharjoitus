@@ -1,7 +1,7 @@
 public class App {
     public static void main(String[] args) throws Exception {
         String tekijä = "Tatu";
-        double luku1 = 27;
+        double luku1 = 7;
         double luku2 = 7;
         double tulo;
         double erotus;
